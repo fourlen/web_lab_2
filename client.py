@@ -15,3 +15,4 @@ if __name__ == "__main__":
     interval = 5  # задаем интервал показа в секундах
     
     show_webpages(webpages, interval)
+
